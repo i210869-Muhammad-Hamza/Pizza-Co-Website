@@ -17,16 +17,12 @@ Technologies Used
 
 Getting Started
 
-    Clone the repository:
+Clone the repository:
 
-    bash
-
-git clone https://github.com/Muhammad-Hamza-cpp/Pizza-Co-Website.git
+    git clone https://github.com/Muhammad-Hamza-cpp/Pizza-Co-Website.git
 
 Navigate to the project directory:
 
-bash
-
-cd Pizza-Co
+    cd Pizza-Co
 
 Open index.html in your browser to view the website.
