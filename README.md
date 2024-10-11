@@ -1,3 +1,4 @@
+![pizza](https://github.com/user-attachments/assets/9a23bd96-7165-43ab-a1cd-35c163c1f759)
 Pizza Co
 
 Pizza Co is a modern, responsive website designed to showcase and order delicious pizzas. The site features an intuitive user interface, eye catching images, and an easy-to-navigate layout, making it simple for customers to explore the menu and place their orders.
